@@ -15,6 +15,7 @@
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3, Angular
-    jQuery, Modernizr, Ajax
+    jQuery, Modernizr,
     Docker, Python
+    machine learning
 

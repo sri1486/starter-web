@@ -7,8 +7,10 @@
     vasu.annapareddy@gmail.com
     aws 
 hi this is srinivas
+hello
 
 # THANKS
+
 
     welcome to devops
 

@@ -3,7 +3,10 @@
 
 # TEAM
 
-    <name> -- srinivas -- <twitter>
+    srinivas
+    vasu.annapareddy@gmail.com
+    aws engineer
+
 
 # THANKS
 

@@ -5,7 +5,7 @@
 
     srinivas
     vasu.annapareddy@gmail.com
-    aws engineer
+    aws 
 
 
 # THANKS
@@ -16,4 +16,5 @@
 
     HTML5, CSS3, Angular
     jQuery, Modernizr, Ajax
+    Docker, Python
 

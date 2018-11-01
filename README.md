@@ -13,3 +13,4 @@ showing git comparisions
 fork the repo and raise pull request for review
 ## GitHub COntent 
 comparision with repo
+adding git rebase lectures

@@ -10,7 +10,7 @@
 
 # THANKS
 
-    <name>
+    welcome to devops
 
 # TECHNOLOGY COLOPHON
 

@@ -1,0 +1,30 @@
+* [33m9973b24[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m change in local
+* [33me9cb9e5[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m remote: adding read me changes
+* [33m3c0985f[m added trouble in file
+* [33m4da99ba[m added text on master
+*   [33m2e26745[m Merging featured with master Merge branch 'mybranch'
+[32m|[m[33m\[m  
+* [33m|[m [33m52c4ce8[m newly modified readme file
+[33m|[m [33m|[m * [33m883e06a[m[33m ([m[1;32mmybranch[m[33m)[m added conflicts in feature branch
+[33m|[m [33m|[m[33m/[m  
+[33m|[m * [33m69b6ddb[m modified humans text
+[33m|[m[33m/[m  
+* [33m52e7c52[m modified readme file
+* [33m263835c[m new changes before rebase starting
+* [33m3a5768d[m adding conflicts by changig same file
+*   [33m625cf2f[m merging with master
+[35m|[m[36m\[m  
+[35m|[m * [33mc2968f8[m change in simple.html file
+[35m|[m * [33m9fe805b[m chang in humans.txt file
+* [36m|[m [33mb5269a2[m change in readme.md file
+[36m|[m[36m/[m  
+* [33m65bbe81[m change in develop branch
+* [33m281c430[m adding text in readme
+* [33ma350592[m adding files recursively
+* [33m7fb97b5[m commiting test file
+*   [33m4beb7f0[m Merge pull request #6 from jasongtaylor/feature-readme
+[1;31m|[m[1;32m\[m  
+[1;31m|[m * [33me73f914[m Adding Purpose section to README
+[1;31m|[m * [33m34f563b[m Adding README file
+[1;31m|[m[1;31m/[m  
+* [33m5c05047[m Copying files from initializr project zip file and then creating simple.html as basis for super simple pages
